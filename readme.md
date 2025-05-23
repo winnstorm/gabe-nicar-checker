@@ -52,7 +52,7 @@ La API incluye un sistema de caché inteligente, procesamiento en cola para múl
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/gabe-nicar-checker.git
+   git clone https://github.com/winnstorm/gabe-nicar-checker.git
    cd gabe-nicar-checker
    ```
 
@@ -312,6 +312,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **¿Te gusta el proyecto? ¡Dale una ⭐ en GitHub!**
 
-[Reportar Bug](https://github.com/tu-usuario/gabe-nicar-checker/issues) • [Solicitar Feature](https://github.com/tu-usuario/gabe-nicar-checker/issues) • [Wiki](https://github.com/tu-usuario/gabe-nicar-checker/wiki)
+[Reportar Bug](https://github.com/winnstorm/gabe-nicar-checker/issues) • [Solicitar Feature](https://github.com/winnstorm/gabe-nicar-checker/issues) • [Wiki](https://github.com/winnstorm/gabe-nicar-checker/wiki)
 
 </div>
